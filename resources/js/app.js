@@ -4,7 +4,7 @@ import Vue from "vue";
 import VueRouter from 'vue-router'
 import router from "./router/router.js";
 import App from "./App.vue"
-import './../assets/css/forum.css'
+import './../assets/css/gallery.css'
 require('./bootstrap');
 
 Vue.use(VueRouter)

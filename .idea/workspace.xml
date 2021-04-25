@@ -20,23 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480e2618-ebde-4342-a38f-1d8809136ae0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/news-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/news-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/router/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/router/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -162,12 +169,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\progs\OSPanel\domains\news-app\resources\assets\css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\progs\OSPanel\domains\news-app\resources\js" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\progs\OSPanel\domains\news-app\resources\assets\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -177,8 +190,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619297914329</updated>
-      <workItem from="1619297915562" duration="6852000" />
+      <workItem from="1619297915562" duration="7881000" />
+      <workItem from="1619330477561" duration="6311000" />
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1619306042554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619306042554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,12 +216,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="417" y="351" key="FileChooserDialogImpl" timestamp="1619304221984">
+    <state x="620" y="92" key="CommitChangelistDialog2" timestamp="1619306042255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="417" y="351" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1619304221984" />
+    <state x="620" y="92" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1619306042255" />
+    <state x="417" y="351" key="FileChooserDialogImpl" timestamp="1619335278924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="417" y="351" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1619335278924" />
     <state x="845" y="418" key="Github.ShareDialog" timestamp="1619298672454">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -208,29 +239,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="229" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619298680195" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1619305591566">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1619306950267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619305591566" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1619305591565">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619306950267" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1619306950267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619305591565" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1619305591565">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619306950267" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1619306950267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619305591565" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1619305591565">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619306950267" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1619306950267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619305591565" />
-    <state x="792" y="223" key="RollbackChangesDialog" timestamp="1619303766264">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619306950267" />
+    <state x="792" y="223" key="RollbackChangesDialog" timestamp="1619331884341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="792" y="223" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619303766264" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1619305240502">
+    <state x="792" y="223" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619331884341" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1619306043606">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619305240502" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619306043606" />
   </component>
 </project>
